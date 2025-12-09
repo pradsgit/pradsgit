@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Pradeep 👋
 
 Full-stack engineer (6+ years) now focused on AI infrastructure and LLM systems.
