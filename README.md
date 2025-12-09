@@ -2,7 +2,7 @@
 
 Full-stack engineer (6+ years) now focused on AI infrastructure and LLM systems.
 
-I've built zero-to-one products at early-stage startups — marketplaces, booking systems, mobile apps. Now I'm going deeper on the AI side: inference optimization, model internals, and building AI-native applications.
+I've built zero-to-one products at early-stage startups: marketplaces, booking systems, mobile apps. Now I'm going deeper on the AI side: inference optimization, model internals, and building AI-native applications.
 
 ## What I'm working on
 
@@ -14,7 +14,7 @@ I've built zero-to-one products at early-stage startups — marketplaces, bookin
 ## Background
 
 **Lead Full-Stack Engineer @ AdventureTripr** (2023-present)  
-Architected React/Next.js frontend + Node.js/PostgreSQL backend for travel marketplace. Built payment automation that cut processing time by 80%.
+Architected React/Next.js frontend + Node.js/PostgreSQL backend for travel marketplace.
 
 **Senior Software Engineer @ LeadSchool** (2021-2022)  
 Built real-time collaborative features, backend APIs in Go, established engineering standards.
